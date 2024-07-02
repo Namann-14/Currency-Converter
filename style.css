@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Outfit", sans-serif !important;
+}
+
+body {
+  background-color: aliceblue;
+}
+header {
+  background-color: lightgreen;
+}
+h2 {
+  color: #2e5eaa;
+}
